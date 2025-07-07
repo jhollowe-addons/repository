@@ -31,6 +31,20 @@ https://github.com/jhollowe-addons/repository
 
 ## Add-ons provided by this repository
 
+### &#10003; [ser2net server][addon-ser2net]
+
+![Latest Version][ser2net-version-shield]
+![Supports armhf Architecture][ser2net-armhf-shield]
+![Supports armv7 Architecture][ser2net-armv7-shield]
+![Supports aarch64 Architecture][ser2net-aarch64-shield]
+![Supports amd64 Architecture][ser2net-amd64-shield]
+![Supports i386 Architecture][ser2net-i386-shield]
+
+Expose serial ports over the network, including RFC2217 support for remote port settings change (e.g. baud rate or RTS)
+
+
+[:books: ser2net server add-on documentation][addon-doc-ser2net]
+
 ## Releases
 
 Releases are based on [Semantic Versioning][semver], and use the format
@@ -49,6 +63,7 @@ You can open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
+- [Open an issue for the add-on: ser2net server][ser2net-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -56,6 +71,15 @@ For a general repository issue or add-on ideas [open an issue here][issue]
 
 We are currently not accepting third party add-ons to this repository.
 
+[addon-ser2net]: https://github.com/jhollowe-addons/addon-ser2net/tree/v0.0.1
+[addon-doc-ser2net]: https://github.com/jhollowe-addons/addon-ser2net/blob/v0.0.1/README.md
+[ser2net-issue]: https://github.com/jhollowe-addons/addon-ser2net/issues
+[ser2net-version-shield]: https://img.shields.io/badge/version-v0.0.1-blue.svg
+[ser2net-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[ser2net-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[ser2net-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[ser2net-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[ser2net-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [awesome-shield]: https://img.shields.io/badge/awesome%3F-yes-brightgreen.svg
 [awesome]: https://awesome-ha.com
 [gitlabci]: https://gitlab.com/jhollowe-addons/repository/pipelines
