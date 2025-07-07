@@ -4,9 +4,6 @@
 ![Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE.md)
 
-[![Discord][discord-shield]][discord]
-[![Community Forum][forum-shield]][forum]
-
 ## About
 
 Home Assistant allows anyone to create add-on repositories to share their
@@ -77,14 +74,11 @@ We are currently not accepting third party add-ons to this repository.
 [ser2net-version-shield]: https://img.shields.io/badge/version-v0.0.1-blue.svg
 [ser2net-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ser2net-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[ser2net-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[ser2net-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [ser2net-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[ser2net-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[awesome-shield]: https://img.shields.io/badge/awesome%3F-yes-brightgreen.svg
-[awesome]: https://awesome-ha.com
-[gitlabci]: https://gitlab.com/jhollowe-addons/repository/pipelines
+[ser2net-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [issue]: https://github.com/jhollowe-addons/repository/issues
 [license-shield]: https://img.shields.io/github/license/jhollowe-addons/repository.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [semver]: http://semver.org/spec/v2.0.0.html
